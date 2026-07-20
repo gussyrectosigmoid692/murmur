@@ -1,0 +1,10 @@
+# Glossary terms: one per line. Whisper is primed with these so names and
+# jargon come out spelled right. Edit freely — changes apply to the next
+# recording, no restart needed.
+Murmur
+
+[replace]
+# Corrections applied to the finished transcript: wrong => right
+# (case-insensitive, matches whole words)
+# example:
+# murmer => Murmur
